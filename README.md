@@ -1,5 +1,4 @@
-# yarn-price-forecasting
-Forecasting cotton yarn prices using ML models (LSTM, GRU, TFT)
+
 # Cotton Yarn Price Forecasting
 
 This project forecasts cotton yarn prices using deep learning models to support better procurement and planning decisions in the apparel industry.
